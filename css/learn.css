@@ -1,0 +1,163 @@
+.vframe-doc
+{
+    height: 95vh !important;
+}
+
+.vframe-vod
+{
+    height: 85vh !important;
+}
+
+.vframe
+{
+    display: block;
+    width: inherit;
+    border: none;
+    height: 100vh;
+}
+
+
+.mat-container
+{
+    display: block;
+    text-align: center;
+    width: 100%;
+    text-align: center;        
+    margin: 0;
+    padding: 0;
+}
+
+
+.res-link:link {
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: blueviolet;
+    text-align: center;
+  }
+  
+.res-link:visited {
+	text-decoration: none;
+    color:whitesmoke;
+    background-color: blueviolet;
+    text-align: center;
+  }
+  
+.res-link:hover {
+	text-decoration: none;
+    color:whitesmoke;
+    background-color: indigo;
+    text-align:center;
+  }
+  
+.res-link:active {
+	text-decoration: none;
+    color:whitesmoke;
+    background-color: hotpink;
+    text-align: center;
+  }
+
+  .res-link {
+    text-align: center !important;
+	display: block;
+    color:whitesmoke;
+    background-color: blueviolet;
+    text-align: center;
+    margin: 2px;
+  }
+
+
+.bres-link:link {
+    text-decoration: none;
+    color:whitesmoke !important;
+    background-color: blue;
+    text-align: center;
+  }
+  
+.bres-link:visited {
+	text-decoration: none;
+    color:whitesmoke !important;
+    background-color:blue;
+    text-align: center;
+  }
+  
+.bres-link:hover {
+	text-decoration: none;
+    color:whitesmoke !important;
+    background-color: blue;
+    text-align:center;
+  }
+  
+.bres-link:active {
+	text-decoration: none;
+    color:whitesmoke !important;
+    background-color: blue;
+    text-align: center;
+  }
+
+.bres-link {
+    text-align: center !important;
+    display: block;
+    padding: 5px;
+    color:whitesmoke !important;
+    background-color: blue;
+    margin: 2px;
+  }
+
+
+  .cres-box-wd {
+    border-style: solid;
+    border-width: 1px;
+    border-color:darkblue;
+    color:azure;
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(to top,violet,darkblue,purple);
+    display:flex;
+    padding: 2px;
+    margin: 2px;
+    overflow:auto;
+    border-radius: 1%;
+  }
+  
+  .cres-pic-wd 
+  {
+    border-radius: 50%;
+    display: flexbox;
+    border-color: blue;
+    height:auto;
+    width:inherit;
+    margin:auto;
+  }
+  
+  .cres-info-wd
+  {
+    display: flexbox;
+  }
+  
+  .cres-link:link {
+    text-decoration: none;
+    }
+    
+  .cres-link:visited {
+    text-decoration: none;
+    color:whitesmoke;
+    }
+    
+  .cres-link:hover {
+    text-decoration: none;
+    color:whitesmoke;
+    }
+    
+  .cres-link:active {
+    text-decoration: none;
+    color:whitesmoke;
+    }
+  
+    .cres-link {
+    display: flex;
+    color:whitesmoke;
+    }
+
+    .bg-black {
+      background-color:#020014;
+    }

@@ -1,0 +1,54 @@
+h1{
+	font-size:8vw;
+}
+h2{
+	font-size:7vw;
+}
+h3{
+	font-size:6vw;
+}
+h4{
+	font-size:5vw;
+}
+h5{
+	font-size:4vw;
+}
+h6{
+	font-size:3vw;
+}
+
+
+.res-h1{
+	font-size:8vw;
+}
+.res-h2{
+	font-size:7vw;
+}
+.res-h3{
+	font-size:6vw;
+}
+.res-h4{
+	font-size:5vw;
+}
+.res-h5{
+	font-size:4vw;
+}
+.res-h6{
+	font-size:3vw;
+}
+
+.res-p{
+	font-size:2vw;
+}
+
+
+.text-no-select
+{
+-webkit-user-select: none; /* Safari */        
+-moz-user-select: none; /* Firefox */
+-ms-user-select: none; /* IE10+/Edge */
+user-select: none; /* Standard */
+-webkit-touch-callout: none; /* iOS Safari */
+-khtml-user-select: none; /* Konqueror HTML */
+cursor: default;
+}

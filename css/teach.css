@@ -1,0 +1,99 @@
+
+#id001 {border: 5px solid black;
+min-height:360;
+max-height:360;}
+
+div.search-panel {
+	background-color: grey;
+	color:white;
+	border-style: solid;
+  	border-width: medium;
+ 	border-color: black;
+}
+
+.results {
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  background-color: black;
+}
+
+.res-box {
+	border-style: solid;
+	border-width: 4px;
+	border-color: lightgrey;
+	color:azure;
+	width: 300px;
+	height: 400px;
+	background-color: grey;
+	display: inline-table;
+	padding: 10px;
+    margin: 8px;
+
+}
+
+.res-pic 
+{
+	border-radius: 50%;
+	display: block;
+	border-color: blue;
+	height: 128px;
+	width: 128px;
+	margin:auto;
+}
+
+
+.res-box-wd {
+	border-style: solid;
+	border-width: 4px;
+	border-color: darkcyan;
+	color:azure;
+	width: 100%;
+	height: auto;
+	background-image: linear-gradient(to top,coral,darkblue);
+	display:flex;
+	padding: 10px;
+	margin: 2px;
+	overflow:auto;
+	border-radius: 5%;
+}
+
+.res-pic-wd 
+{
+	border-radius: 50%;
+	display: flexbox;
+	border-color: blue;
+	height:auto;
+	width:inherit;
+	margin:auto;
+}
+
+.res-info-wd
+{
+	display: flexbox;
+	font-size:14px;
+}
+
+.res-link:link {
+	text-decoration: none;
+  }
+  
+.res-link:visited {
+	text-decoration: none;
+	color:whitesmoke;
+  }
+  
+.res-link:hover {
+	text-decoration: none;
+	color:whitesmoke;
+  }
+  
+.res-link:active {
+	text-decoration: none;
+	color:whitesmoke;
+  }
+
+  .res-link {
+	display: flex;
+	color:whitesmoke;
+  }

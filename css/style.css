@@ -1,0 +1,139 @@
+.cbox
+{
+	height: 80px;
+	background-color: black;
+}
+.header{
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #5F9EA0;
+	text-align: center;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+ .content{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+.error{
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+.success{
+	color: #3c763d;
+	background: #dff0d8;
+	border: 1px solid #3c763d;
+	margin-bottom: 20px;
+}
+
+.warning-cus{
+display:inline;
+margin : 2px 2px 2px 2px;
+}
+
+  .cw{
+    color: white;
+  }
+  .cg{
+  	color: green;
+  }
+  .cye
+  {
+  	color:yellow;
+  }
+
+  .cy{
+  	font-size: 10px;
+  	color:red;
+  	font-family: sans-serif;
+  }
+  .msg{
+    text-align: center;
+  }
+
+
+.bg-black {
+background-color:#020014;
+}
+
+a.lbrand:link {
+  text-decoration: none;
+}
+
+a.lbrand:visited {
+  text-decoration: none;
+}
+
+a.lbrand:hover {
+  color:darkgreen;
+ text-decoration: none;
+}
+
+a.lbrand:active {
+  color:darkslateblue;
+  text-decoration: none;
+}
+
+h1.msg:hover{
+color:darkgreen;
+}
+
+.disp-none
+{
+	display: none;
+}
+
+.disp-block
+{
+	display: block;
+}
+
+.disp-inline
+{
+	display: inline;
+}
+
+.p-link
+{
+	background-color:whitesmoke;
+	color: crimson;
+	text-decoration: none;
+	border-radius: 10%;
+	min-width: 40%;
+	max-width: 70%;
+}
+
+.p-link:link
+{ 
+	color:crimson;
+	text-decoration: none;
+}
+
+.p-link:visited
+{
+	color:crimson;
+	text-decoration: none;
+}
+
+.p-link:hover
+{
+	color: firebrick;
+	text-decoration: none;
+}
+
+.p-link:active
+{
+	color: firebrick;
+	text-decoration: none;
+}

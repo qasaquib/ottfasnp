@@ -1,0 +1,72 @@
+body {margin: 0;}
+
+.dropdown:hover>.dropdown-menu{
+display: block;
+}
+.searchbox{
+width: 100%;
+}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;+
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a.linx{
+  display: block;
+  color:blue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:not(.linx){
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+ul.topnav li.dd1 {float: right;}
+
+ul.topnav li.dd2 {float: right;}
+
+h3.logo {color: #4CAF50;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right,
+  ul.topnav li.dd1, 
+  ul.topnav li.dd2,  
+  ul.topnav li {float: none;}
+}
+li.dd1 div.ddc1{
+  display:none;
+   z-index: 1;
+}
+
+.dd1:hover .ddc1 {
+  display:block;
+}
+
+li.dd2 div.ddc2{
+  display:none;
+   z-index: 1;
+}
+
+.dd2:hover .ddc2 {
+  display:block;
+}
+
